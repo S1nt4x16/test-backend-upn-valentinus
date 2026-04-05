@@ -1,4 +1,4 @@
-# Technical Test - Backend Engineer 2026 (UPN Jakarta)
+# Technical Test - Backend Engineer 2026
 
 Repositori ini berisi implementasi RESTful API menggunakan **NestJS** dan **Knex.js** (PostgreSQL) untuk memenuhi persyaratan Technical Test Backend Engineer. Project ini mencakup manajemen user, autentikasi keamanan, dan manajemen data mahasiswa.
 
